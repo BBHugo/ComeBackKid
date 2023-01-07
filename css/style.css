@@ -24,8 +24,22 @@ ul {
     align-items: flex-end;
 }
 
+img {
+    
+}
+
 li {
     border: 1px dotted blue;
     align-items: flex-start;
     list-style: none;
+}
+
+.first {
+    /* display: flex; */
+}
+
+h1 {
+    width: 100%;
+    /* justify-self:center; */
+    text-align: center;
 }
