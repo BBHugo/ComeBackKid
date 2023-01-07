@@ -27,4 +27,5 @@ ul {
 li {
     border: 1px dotted blue;
     align-items: flex-start;
+    list-style: none;
 }
